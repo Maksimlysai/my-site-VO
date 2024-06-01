@@ -1,0 +1,103 @@
+h1{
+   text-align:center;
+   background-color: green;
+   border-radius: 15px;
+}
+
+img{
+   height: 160px;
+   width: 270px;
+}
+
+h2{
+  text-align:center;
+   background-color: green;
+   border-radius: 15px;
+}
+
+footer{
+   background-color: green;
+
+}
+
+.alfo{
+   color: black;
+   background-color: white;
+}
+
+.afa{
+   border-radius: 15px;
+   padding: 10px 25px;
+   background-color: aqua;
+}
+
+.ufa{
+   border-radius: 15px;
+   padding: 10px 25px;
+   background-color: aqua;
+}
+
+.ofa{
+   border-radius: 15px;
+   padding: 10px 25px;
+   background-color: aqua;
+}
+
+.pfa{
+   border-radius: 15px;
+   padding: 10px 25px;
+   background-color: aqua;
+}
+
+
+
+h4{
+   background-color: green;
+   text-align: center;
+   color: red;
+   padding: 10px 25px;
+   border-radius: 15px;
+}
+
+.mono{
+   color: white;
+   font-size: 50px;
+}
+
+p{
+   font-size: 20px;
+}
+
+a{
+   font-size: 23px;
+   text-decoration: none;
+   color: white;
+   padding: 10px 25px;
+}
+
+.f{
+   color: blue;
+}
+
+.mon{
+   color: white;
+   font-size: 30px;
+}
+
+table{
+   font-size: 25px;
+}
+
+.b{
+   height: 20px;
+   width: 20px;
+}
+
+.t{
+   height: 220px;
+   width: 300px;
+}
+
+.r{
+   font-size: 25px;
+}
